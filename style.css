@@ -331,14 +331,14 @@ section {
 
 /* EXPERIENCE SECTION */
 
-#experience {
+#skills {
   position: relative;
   margin-top:100px;
   color: #FFCD02;
   
 }
 
-.experience-sub-title {
+.-sub-title {
   color: #FFCD02;
   font-weight: 600;
   font-size: 1.75rem;
